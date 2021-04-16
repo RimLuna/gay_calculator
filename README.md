@@ -1,4 +1,4 @@
 # gay_calculator
-Ugly gay calculator in my series of ugly flutter apps.
+Gay calculator in my series of meh flutter apps.
 
 ![Gay Calculator](./GayCalculator.PNG)
